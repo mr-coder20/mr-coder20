@@ -16,10 +16,10 @@ Profile views: <img src="https://komarev.com/ghpvc/?username=mr-coder20&style=fl
 </p>
 
 <p align="left">
-<!-- Fun Security / Hacking / Programming GIFs -->
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="180" alt="Programming Fun"/>
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="180" alt="Cyber Security"/>
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" alt="Hacking"/>
+<!-- Big Fun Security / Hacking / Programming GIFs -->
+<img src="https://media.giphy.com/media/l0HlQ7LRal2Rg7pU0/giphy.gif" width="200" alt="Programming Fun" title="Programming"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Cyber Security" title="Cyber Security"/>
+<img src="https://media.giphy.com/media/xT0BKmtQGLbumr5RCM/giphy.gif" width="200" alt="Networking Fun" title="Networking"/>
 </p>
 
 ---
@@ -47,6 +47,22 @@ Profile views: <img src="https://komarev.com/ghpvc/?username=mr-coder20&style=fl
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+</p>
+
+---
+
+<h3 align="left">🌟 Fun & Interactive Animations</h3>
+<p align="left">
+<!-- Hover-like effect with GitHub Markdown compatible trick -->
+<a href="https://github.com/mr-coder20/PERSIANEFOOTBALL">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="250" alt="Fun Animation 1"/>
+</a>
+<a href="https://github.com/mr-coder20/InstaExploreJetpack">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Fun Animation 2"/>
+</a>
+<a href="https://github.com/mr-coder20/NikeStore-Application">
+  <img src="https://media.giphy.com/media/3orieVFX9vRCgFZIXS/giphy.gif" width="250" alt="Fun Animation 3"/>
+</a>
 </p>
 
 ---
