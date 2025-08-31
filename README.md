@@ -43,10 +43,11 @@ Views: <img src="https://komarev.com/ghpvc/?username=mr-coder20&style=flat-squar
 
 <h3 align="left">📁 Featured Projects</h3>
 <p align="left">
-<a href="https://github.com/mr-coder20/PERSIANEFOOTBALL" style="transition: all 0.3s; color:#FF6F61; font-weight:bold;" onmouseover="this.style.color='#FF4500'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#FF6F61'; this.style.transform='scale(1)'">PERSIANEFOOTBALL</a> | 
-<a href="https://github.com/mr-coder20/InstaExploreJetpack" style="transition: all 0.3s; color:#6A5ACD; font-weight:bold;" onmouseover="this.style.color='#483D8B'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#6A5ACD'; this.style.transform='scale(1)'">InstaExploreJetpack</a> | 
-<a href="https://github.com/mr-coder20/Rick-Morty" style="transition: all 0.3s; color:#FF8C00; font-weight:bold;" onmouseover="this.style.color='#FFA500'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#FF8C00'; this.style.transform='scale(1)'">Rick-Morty</a> | 
-<a href="https://github.com/mr-coder20/Driving-license-Exam" style="transition: all 0.3s; color:#20B2AA; font-weight:bold;" onmouseover="this.style.color='#3CB371'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#20B2AA'; this.style.transform='scale(1)'">Driving-license-Exam</a>
+<a href="https://github.com/mr-coder20/PERSIANEFOOTBALL" style="transition: all 0.3s; color:#FF6F61; font-weight:bold;" onmouseover="this.style.color='#FF4500'; this.style.transform='scale(1.2)'; this.innerHTML='⚽ PERSIANEFOOTBALL 🏃‍♂️';" onmouseout="this.style.color='#FF6F61'; this.style.transform='scale(1)'; this.innerHTML='PERSIANEFOOTBALL'">PERSIANEFOOTBALL</a> | 
+<a href="https://github.com/mr-coder20/InstaExploreJetpack" style="transition: all 0.3s; color:#6A5ACD; font-weight:bold;" onmouseover="this.style.color='#483D8B'; this.style.transform='scale(1.2)'; this.innerHTML='📸 InstaExploreJetpack ✨';" onmouseout="this.style.color='#6A5ACD'; this.style.transform='scale(1)'; this.innerHTML='InstaExploreJetpack'">InstaExploreJetpack</a> | 
+<a href="https://github.com/mr-coder20/Rick-Morty" style="transition: all 0.3s; color:#FF8C00; font-weight:bold;" onmouseover="this.style.color='#FFA500'; this.style.transform='scale(1.2)'; this.innerHTML='🛸 Rick-Morty 👽';" onmouseout="this.style.color='#FF8C00'; this.style.transform='scale(1)'; this.innerHTML='Rick-Morty'">Rick-Morty</a> | 
+<a href="https://github.com/mr-coder20/Driving-license-Exam" style="transition: all 0.3s; color:#20B2AA; font-weight:bold;" onmouseover="this.style.color='#3CB371'; this.style.transform='scale(1.2)'; this.innerHTML='🚗 Driving-license-Exam 📝';" onmouseout="this.style.color='#20B2AA'; this.style.transform='scale(1)'; this.innerHTML='Driving-license-Exam'">Driving-license-Exam</a> | 
+<a href="https://github.com/mr-coder20/amlak" style="transition: all 0.3s; color:#FF69B4; font-weight:bold;" onmouseover="this.style.color='#FF1493'; this.style.transform='scale(1.2)'; this.innerHTML='🏠 amlak 💰';" onmouseout="this.style.color='#FF69B4'; this.style.transform='scale(1)'; this.innerHTML='amlak'">amlak</a>
 </p>
 
 ---
