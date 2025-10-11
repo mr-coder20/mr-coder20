@@ -46,12 +46,11 @@ Java | Kotlin | Python
 
 ---
 
-<h3 align="left">🎨 Fun & Animated GIFs</h3>
+<h3 align="left">🎨</h3>
 <p align="left">
 <!-- Security / Programming / Network GIFs -->
 <a href="https://github.com/mr-coder20/PERSIANEFOOTBALL"><img src="https://media.giphy.com/media/l0HlQ7LRal2Rg7pU0/giphy.gif" width="220" alt="Programming Fun"/></a>
-<a href="https://github.com/mr-coder20/InstaExploreJetpack"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" alt="Cyber Security"/></a>
-<a href="https://github.com/mr-coder20/NikeStore-Application"><img src="https://media.giphy.com/media/xT0BKmtQGLbumr5RCM/giphy.gif" width="220" alt="Networking Fun"/></a>
+
 </p>
 
 ---
