@@ -10,8 +10,8 @@ High-performance Kotlin core utilities module for building scalable Android syst
 <code>ROLE : FOUNDATION_LAYER</code><br>
 <code>LANGUAGE : Kotlin</code><br>
 <code>VISIBILITY : Public</code><br>
-<code>UPDATED : 13 minutes ago</code><br>
-<a href="#"><code>[ VIEW_SOURCE ]</code></a>
+<code>UPDATED : 15 minutes ago</code><br>
+<a href="https://github.com/mr-coder20/Solitpy"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
 
@@ -24,8 +24,8 @@ Cyber-themed personal portfolio website with responsive and modern design.
 <code>ROLE : PERSONAL_BRANDING_SYSTEM</code><br>
 <code>LANGUAGE : HTML</code><br>
 <code>VISIBILITY : Public</code><br>
-<code>UPDATED : 53 minutes ago</code><br>
-<a href="#"><code>[ VIEW_SOURCE ]</code></a>
+<code>UPDATED : 1 hour ago</code><br>
+<a href="https://mr-coder20.github.io/my-portfolio/"><code>[ VIEW_SITE ]</code></a>
 
 </td>
 </tr>
