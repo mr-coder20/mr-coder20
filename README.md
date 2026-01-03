@@ -8,7 +8,9 @@
 High-performance Kotlin core utilities module for building scalable Android systems.
 </font><br>
 <code>ROLE : FOUNDATION_LAYER</code><br>
-<code>UPDATED : 9 minutes ago</code><br>
+<code>LANGUAGE : Kotlin</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : 13 minutes ago</code><br>
 <a href="#"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -20,7 +22,9 @@ High-performance Kotlin core utilities module for building scalable Android syst
 Cyber-themed personal portfolio website with responsive and modern design.
 </font><br>
 <code>ROLE : PERSONAL_BRANDING_SYSTEM</code><br>
-<code>UPDATED : 49 minutes ago</code><br>
+<code>LANGUAGE : HTML</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : 53 minutes ago</code><br>
 <a href="#"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -34,6 +38,9 @@ Cyber-themed personal portfolio website with responsive and modern design.
 Live football tracker with Persian localization and instant goal alerts.
 </font><br>
 <code>ROLE : REALTIME_DATA_STREAM</code><br>
+<code>LANGUAGE : Kotlin</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : 3 weeks ago</code><br>
 <a href="https://github.com/mr-coder20/PERSIANEFOOTBALL"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -42,10 +49,13 @@ Live football tracker with Persian localization and instant goal alerts.
 
 <h2>🧿 INSTA EXPLORE JETPACK</h2>
 <font size="2" color="#00FF41">
-Instagram Explore clone with Jetpack Compose, smooth infinite scroll, and dynamic UI animations.
+Instagram Explore clone built with Jetpack Compose. Features responsive grid, infinite scroll, Lottie animations, and handles network connectivity.
 </font><br>
 <code>ROLE : UI_UX_SHOWCASE</code><br>
+<code>LANGUAGE : Kotlin</code><br>
+<code>VISIBILITY : Public</code><br>
 <code>FEATURES : Compose | Lottie | Infinite Scroll | Interactive Animations</code><br>
+<code>UPDATED : Jun 29, 2025</code><br>
 <a href="https://github.com/mr-coder20/InstaExploreJetpack"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -59,6 +69,9 @@ Instagram Explore clone with Jetpack Compose, smooth infinite scroll, and dynami
 Fast character search engine with Paging 3 and analytics integration.
 </font><br>
 <code>ROLE : DATA_QUERY_ENGINE</code><br>
+<code>LANGUAGE : Kotlin</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : Nov 20, 2024</code><br>
 <a href="https://github.com/mr-coder20/Rick-Morty"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -70,6 +83,9 @@ Fast character search engine with Paging 3 and analytics integration.
 Smart driving exam simulator with scoring analytics and persistent data storage.
 </font><br>
 <code>ROLE : SMART_ASSESSMENT_PLATFORM</code><br>
+<code>LANGUAGE : Kotlin</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : Oct 17, 2024</code><br>
 <a href="https://github.com/mr-coder20/Driving-license-Exam"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -83,6 +99,9 @@ Smart driving exam simulator with scoring analytics and persistent data storage.
 Real estate management system with advanced filters and custom mapping.
 </font><br>
 <code>ROLE : PROPERTY_MANAGEMENT_ENGINE</code><br>
+<code>LANGUAGE : Kotlin</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : Aug 16, 2024</code><br>
 <a href="https://github.com/mr-coder20/amlak"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -94,6 +113,9 @@ Real estate management system with advanced filters and custom mapping.
 Enterprise-grade real estate platform optimized for large-scale listings.
 </font><br>
 <code>ROLE : ENTERPRISE_PROPERTY_PLATFORM</code><br>
+<code>LANGUAGE : Kotlin</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : Aug 13, 2024</code><br>
 <a href="https://github.com/mr-coder20/amlak"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -107,6 +129,9 @@ Enterprise-grade real estate platform optimized for large-scale listings.
 Professional Android music player with background playback and audio focus control.
 </font><br>
 <code>ROLE : MULTIMEDIA_ENGINE</code><br>
+<code>LANGUAGE : Java</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : Jul 22, 2024</code><br>
 <a href="https://github.com/mr-coder20/MusicPlayer-Application"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -118,6 +143,9 @@ Professional Android music player with background playback and audio focus contr
 Security toolkit for encryption, irreversible hashing, and data obfuscation.
 </font><br>
 <code>ROLE : SECURITY_CRYPTO_SUITE</code><br>
+<code>LANGUAGE : Python</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : Jul 4, 2024</code><br>
 <a href="https://github.com/mr-coder20/python-encrypt-decrypt-hash"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -131,6 +159,9 @@ Security toolkit for encryption, irreversible hashing, and data obfuscation.
 Production-level e-commerce Android app with Clean Architecture and payment simulation.
 </font><br>
 <code>ROLE : ECOMMERCE_PLATFORM</code><br>
+<code>LANGUAGE : Kotlin</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : Jul 3, 2024</code><br>
 <a href="https://github.com/mr-coder20/NikeStore-Application"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -142,6 +173,9 @@ Production-level e-commerce Android app with Clean Architecture and payment simu
 Live GPS tracking with intelligent routing and custom map overlays.
 </font><br>
 <code>ROLE : GEOLOCATION_ENGINE</code><br>
+<code>LANGUAGE : Java</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : Jul 3, 2024</code><br>
 <a href="https://github.com/mr-coder20/GoogleMap-Application"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
@@ -155,6 +189,9 @@ Live GPS tracking with intelligent routing and custom map overlays.
 Advanced Android file manager with root access and smart file categorization.
 </font><br>
 <code>ROLE : STORAGE_CONTROL_SYSTEM</code><br>
+<code>LANGUAGE : Java</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : Jul 3, 2024</code><br>
 <a href="https://github.com/mr-coder20/FileManager-Application"><code>[ VIEW_SOURCE ]</code></a>
 
 </td>
