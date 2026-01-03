@@ -93,18 +93,6 @@
 
 ---
 
-### ⚡ [ SYSTEM_CORE_METRICS ]
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-coder20&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-coder20&layout=compact&title_color=00FF41&text_color=00FF41&bg_color=000000&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
----
-
 ### 📡 [ ESTABLISH_ENCRYPTED_CONNECTION ]
 
 <div align="center">
@@ -115,7 +103,7 @@
     <img src="https://img.shields.io/badge/SMTP_MAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=mr-coder20&label=TOTAL_INTRUSIONS&color=00FF41&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=mr-coder20&label=SYSTEM_ACCESS_COUNT&color=00FF41&style=flat-square" />
   <br>
   <code>[ STATUS: ANONYMOUS | ROLE: ANDROID_EXPERT ]</code>
 </div>
