@@ -1,76 +1,92 @@
-<h1 align="center">Hi 👋, I'm Amirhossein Ghaffari</h1>
-<h3 align="center">A passionate Android & Software Developer from Iran</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Amirhossein%20Ghaffari&fontSize=70&animation=fadeIn" width="100%" />
+
+  <h3>🚀 Android & Software Developer | Architecting Modern Experiences</h3>
+
+  <p align="center">
+    <a href="https://mr-coder20.github.io/my-portfolio/">
+      <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-0078D4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+    </a>
+    <a href="https://t.me/a_god_3_6_9">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+  </p>
+</div>
+
+---
+
+### ⚡ About Me
+خلاق، متعهد و عاشق دنیای اندروید. تمرکز من بر ساخت اپلیکیشن‌هایی است که نه تنها کار می‌کنند، بلکه تجربه‌ای لذت‌بخش برای کاربر رقم می‌زنند. 
+
+* 🌍 ساکن ایران
+* 🎓 متخصص در **Kotlin** و **Jetpack Compose**
+* ⚙️ متمرکز بر زیرساخت‌های **Firebase** (FCM, Analytics, Crashlytics, Performance)
+
+---
+
+### 🛠 Tech Stack & Ecosystem
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</div>
+
+---
+
+### 📁 Featured Public Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**InstaExploreJetpack**](https://github.com/mr-coder20/InstaExploreJetpack) | Kotlin / Compose / Lottie | کلون حرفه‌ای اکسپلور اینستاگرام با اسکرول نامحدود و معماری مدرن |
+| [**PERSIANEFOOTBALL**](https://github.com/mr-coder20/PERSIANEFOOTBALL) | Kotlin | اپلیکیشن تخصصی فوتبال با تمرکز بر UI فارسی |
+| [**NikeStore-Application**](https://github.com/mr-coder20/NikeStore-Application) | Kotlin / MVVM | فروشگاه کامل کفش نایکی با سبد خرید و مدیریت دیتابیس |
+| [**Driving-license-Exam**](https://github.com/mr-coder20/Driving-license-Exam) | Kotlin | اپلیکیشن جامع آزمون آیین‌نامه رانندگی |
+| [**Rick-Morty**](https://github.com/mr-coder20/Rick-Morty) | Kotlin / API | پیاده‌سازی API ریک و مورتی با مدیریت داده‌های ریموت |
+| [**amlak**](https://github.com/mr-coder20/amlak) | Kotlin | پلتفرم مدیریت و نمایش املاک |
+| [**python-encrypt-decrypt**](https://github.com/mr-coder20/python-encrypt-decrypt-hash) | Python | ابزار امنیتی برای هش و رمزنگاری داده‌ها |
+| [**MusicPlayer**](https://github.com/mr-coder20/MusicPlayer-Application) | Java | پخش‌کننده موسیقی با رابط کاربری کلاسیک اندروید |
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-coder20&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-coder20&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 🤝 Connect with Me
+<div align="left">
+  <a href="https://t.me/a_god_3_6_9" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@a_god_3_6_9-blue?style=flat&logo=telegram" />
+  </a>
+  <a href="mailto:amirhosseinghafari29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amirhosseinghafari29@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
 
 <p align="center">
-👨‍💻 My projects: <a href="https://github.com/mr-coder20">GitHub</a><br>
-📫 Contact: <a href="https://t.me/a_god_3_6_9">Telegram</a><br>
-Profile views: <img src="https://komarev.com/ghpvc/?username=mr-coder20&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mr-coder20&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
----
-
-<h3 align="left">👇 Languages & Tools 👇</h3>
-
-<h4 align="left">Languages:</h4>
-<p align="left">
-Java | Kotlin | Python
-</p>
-
-<h4 align="left">Tools & Platforms:</h4>
-<p align="left">
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" alt="android"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="firebase"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="git"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="java"/></a>
-<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" alt="kotlin"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="linux"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="mssql"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="python"/></a>
-</p>
-
----
-
-<h3 align="left">📁 Featured Projects</h3>
-<p align="left">
-<a href="https://github.com/mr-coder20/PERSIANEFOOTBALL">PERSIANEFOOTBALL</a> | 
-<a href="https://github.com/mr-coder20/InstaExploreJetpack">InstaExploreJetpack</a> | 
-<a href="https://github.com/mr-coder20/Rick-Morty">Rick-Morty</a> | 
-<a href="https://github.com/mr-coder20/Driving-license-Exam">Driving-license-Exam</a> | 
-<a href="https://github.com/mr-coder20/amlak">amlak</a> | 
-<a href="https://github.com/mr-coder20/MusicPlayer-Application">MusicPlayer-Application</a> | 
-<a href="https://github.com/mr-coder20/NikeStore-Application">NikeStore-Application</a> | 
-<a href="https://github.com/mr-coder20/GoogleMap-Application">GoogleMap-Application</a> | 
-<a href="https://github.com/mr-coder20/FileManager-Application">FileManager-Application</a> | 
-<a href="https://github.com/mr-coder20/python-encrypt-decrypt-hash">Python Encrypt/Decrypt/Hash</a>
-</p>
-
----
-
-<h3 align="left">🎨</h3>
-<p align="left">
-<!-- Security / Programming / Network GIFs -->
-<a href="https://github.com/mr-coder20/PERSIANEFOOTBALL"><img src="https://media.giphy.com/media/l0HlQ7LRal2Rg7pU0/giphy.gif" width="220" alt="Programming Fun"/></a>
-
-</p>
-
----
-
-<h3 align="left">🐍 GitHub Contribution Snake</h3>
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-</p>
-
----
-
-<h3 align="left">🔗 Connect with Me</h3>
-<p align="left">
-<a href="https://t.me/a_god_3_6_9">Telegram</a>
-</p>
-
-<p align="center">
-<em>Let's code, innovate, and make amazing apps! 🚀</em>
-</p>
+<p align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
