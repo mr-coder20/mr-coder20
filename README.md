@@ -1,75 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thinner&color=00FF41&height=100&section=header&text=SYSTEM%20OVERRIDE:%20AMIRHOSSEIN%20GHAFFARI&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=classic&color=00FF41&height=150&section=header&text=DATABASE%20INTRUSION%20COMPLETED&fontSize=50&animation=twinkling" width="100%" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF41?style=for-the-badge&logo=target&logoColor=black" />
-    <img src="https://img.shields.io/badge/ROLE-ANDROID_ARCHITECT-00FF41?style=for-the-badge&logo=android&logoColor=black" />
+    <img src="https://img.shields.io/badge/SECURITY_LEVEL-CLASSIFIED-red?style=for-the-badge" />
     <a href="https://mr-coder20.github.io/my-portfolio/">
-      <img src="https://img.shields.io/badge/ACCESS-RESUME_FILE-white?style=for-the-badge&logo=ghost&logoColor=black" />
+      <img src="https://img.shields.io/badge/📂_ACCESS_RESUME-00FF41?style=for-the-badge&logo=target&logoColor=black" />
     </a>
   </p>
 </div>
 
 ---
 
-### ⚡ [TERMINAL_DECRYPTING_PROJECT_DATA...]
+### 🛡️ [ PROJECT_STATIONS_GRID ]
 
-<br>
-
-#### 🟢 MODULE 01: InstaExploreJetpack
-> **Primary Objective:** Re-engineering social media UI dynamics.
-* **Core Architecture:** Jetpack Compose + Clean Architecture.
-* **System Specs:** Infinite Scrolling, Lottie Animations, Advanced Network State Handling.
-* **Execution:** Fully responsive grid system with real-time image rendering.
-* [**ACCESS REPOSITORY 📂**](https://github.com/mr-coder20/InstaExploreJetpack)
-
----
-
-#### 🟢 MODULE 02: PERSIANEFOOTBALL
-> **Primary Objective:** High-performance sports data visualization.
-* **Core Tech:** Kotlin Coroutines & Advanced UI Components.
-* **System Specs:** Real-time data sync, localized Persian interface, optimized resource management.
-* [**ACCESS REPOSITORY 📂**](https://github.com/mr-coder20/PERSIANEFOOTBALL)
+#### 📱 MODULE: InstaExploreJetpack
+**Project Spec:** Re-engineering Instagram Explore UI with Jetpack Compose.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-coder20/InstaExploreJetpack/main/preview.png" width="80%" alt="InstaExplore Preview" fallback=""/>
+</p>
+> **System Log:** Handled infinite scrolling, Lottie animations, and complex grid states.
+> [**DECRYPT_SOURCE_CODE 🔑**](https://github.com/mr-coder20/InstaExploreJetpack)
 
 ---
 
-#### 🟢 MODULE 03: NikeStore-Application
-> **Primary Objective:** End-to-end E-commerce infrastructure.
-* **Core Tech:** MVVM Pattern, Retrofit, Room Database.
-* **System Specs:** Integrated Cart Logic, Product Filtering, UI/UX inspired by premium retail standards.
-* [**ACCESS REPOSITORY 📂**](https://github.com/mr-coder20/NikeStore-Application)
+#### 📱 MODULE: NikeStore-Application
+**Project Spec:** Full-stack E-commerce Engine with MVVM & Retrofit.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-coder20/NikeStore-Application/main/screenshot.jpg" width="80%" alt="NikeStore Preview" fallback=""/>
+</p>
+> **System Log:** Integrated Room DB for persistence and high-speed API fetching.
+> [**DECRYPT_SOURCE_CODE 🔑**](https://github.com/mr-coder20/NikeStore-Application)
 
 ---
 
-#### 🟢 MODULE 04: Rick-Morty Engine
-> **Primary Objective:** Complex API data fetching and state management.
-* **Core Tech:** REST API Integration, Paging 3, Kotlin.
-* **System Specs:** Handle deep-nested data models with seamless navigation.
-* [**ACCESS REPOSITORY 📂**](https://github.com/mr-coder20/Rick-Morty)
+#### ⚽ MODULE: PERSIANEFOOTBALL
+**Project Spec:** Professional Sports Analytics & Live Data.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-coder20/PERSIANEFOOTBALL/main/app_ui.png" width="80%" alt="Football App Preview" />
+</p>
+> **System Log:** Optimized for RTL (Persian) UI/UX and real-time score updates.
+> [**DECRYPT_SOURCE_CODE 🔑**](https://github.com/mr-coder20/PERSIANEFOOTBALL)
 
 ---
 
-#### 🟢 MODULE 05: Driving-license-Exam
-> **Primary Objective:** Interactive educational testing environment.
-* **Core Tech:** Custom Logic Engines, Database Persistance.
-* **System Specs:** Timer-based exams, instant feedback loop, score analysis.
-* [**ACCESS REPOSITORY 📂**](https://github.com/mr-coder20/Driving-license-Exam)
+#### 🚗 MODULE: Driving-license-Exam
+**Project Spec:** Interactive Simulation & Educational DB.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-coder20/Driving-license-Exam/main/exam_ui.png" width="80%" alt="Exam App Preview" />
+</p>
+> **System Log:** Logic-heavy exam engine with instant result processing.
+> [**DECRYPT_SOURCE_CODE 🔑**](https://github.com/mr-coder20/Driving-license-Exam)
 
 ---
 
-#### 🔴 ENCRYPTION & UTILITIES
-* **python-encrypt-decrypt-hash:** A security toolkit for hashing and cryptographic operations.
-* **MusicPlayer-Application:** High-fidelity audio playback system (Java).
-* **FileManager-Application:** Low-level file system management and I/O operations.
-* **GoogleMap-Application:** Geo-spatial mapping and location-based service integration.
+#### 🔐 SECURITY MODULE: Python-Encrypt-Hash
+**Project Spec:** Cryptographic Algorithms & Data Integrity.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-coder20/python-encrypt-decrypt-hash/main/terminal_preview.png" width="80%" alt="Security Tool Preview" />
+</p>
+> **System Log:** Implemented SHA-256, AES, and custom hashing protocols.
+> [**DECRYPT_SOURCE_CODE 🔑**](https://github.com/mr-coder20/python-encrypt-decrypt-hash)
 
 ---
 
-### 🛠️ CORE_SKILLS_LOG
-```console
-root@ghaffari:~$ list-technologies --modern
-> KOTLIN [Jetpack Compose, Flow, Coroutines]
-> FIREBASE [FCM, Analytics, Crashlytics, Performance]
-> DATABASE [Room, SQLServer, SQLite]
-> SECURITY [Python Cryptography, Encryption]
-> TOOLS [Git, Linux, Android Studio, Gradle]
+### 📊 ANALYTICS_LOGS
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-coder20&show_icons=true&theme=matrix" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-coder20&layout=compact&theme=matrix" width="45%" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+</div>
+
+---
+
+<div align="center">
+  <p><strong>[ TERMINAL_CONNECTION_ESTABLISHED ]</strong></p>
+  <a href="https://t.me/a_god_3_6_9">
+    <img src="https://img.shields.io/badge/TELEGRAM-00FF41?style=for-the-badge&logo=telegram&logoColor=black" />
+  </a>
+</div>
