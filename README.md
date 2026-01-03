@@ -106,19 +106,7 @@ Real estate management system with advanced filters and custom mapping.
 
 </td>
 
-<td width="50%" bgcolor="#000000">
-
-<h2>🏘 AM-LAKESTAN</h2>
-<font size="2" color="#00FF41">
-Enterprise-grade real estate platform optimized for large-scale listings.
-</font><br>
-<code>ROLE : ENTERPRISE_PROPERTY_PLATFORM</code><br>
-<code>LANGUAGE : Kotlin</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : Aug 13, 2024</code><br>
-<a href="https://github.com/mr-coder20/amlak"><code>[ VIEW_SOURCE ]</code></a>
-
-</td>
+<td width="50%" bgcolor="#000000"></td>
 </tr>
 
 <tr>
