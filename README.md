@@ -1,67 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&text=AMIRHOSSEIN%20GHAFFARI&fontSize=60&fontColor=00FF41&fontAlignY=40&desc=CORE%20SYSTEM%20ARCHITECT%20&%20MOBILE%20DEVELOPER&descSize=20&descAlignY=60&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&text=SYSTEM%20OVERRIDE:%20MR-CODER20&fontSize=50&fontColor=00FF41&fontAlignY=40&desc=ACCESSING%20ENCRYPTED%20REPOSITORIES...&descSize=20&descAlignY=60&animation=twinkling" width="100%" />
 
   <p align="center">
     <a href="https://mr-coder20.github.io/my-portfolio/">
-      <img src="https://img.shields.io/badge/--DOWNLOAD_RESUME-00FF41?style=for-the-badge&logo=read-the-docs&logoColor=black" />
+      <img src="https://img.shields.io/badge/--SCAN_RESUME-00FF41?style=for-the-badge&logo=codeforces&logoColor=black" />
     </a>
-    <img src="https://img.shields.io/badge/FIREBASE-ACTIVE-orange?style=for-the-badge&logo=firebase" />
-    <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-red?style=for-the-badge&logo=dependabot" />
+    <img src="https://img.shields.io/badge/FIREBASE_MONITORING-ACTIVE-orange?style=for-the-badge&logo=firebase" />
+    <img src="https://img.shields.io/badge/NETWORK_STATUS-SECURE-blue?style=for-the-badge&logo=wireshark" />
   </p>
 </div>
 
 ---
 
-### 🗂️ [ ACTIVE_REPOSITORY_MODULES ]
+### 📂 [ DECRYPTED_PROJECT_DATABASE ]
 
-<table border="0">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🟢 MODULE: InstaExploreJetpack</h4>
-      <img src="https://raw.githubusercontent.com/mr-coder20/InstaExploreJetpack/main/img1.jpg" width="100%" style="border-radius:10px; border: 1px solid #00FF41;" />
-      <p><b>Specs:</b> High-performance UI clone using Jetpack Compose. Infinite scroll logic & Lottie integration.</p>
-      <a href="https://github.com/mr-coder20/InstaExploreJetpack"><b>[ SOURCE_CODE ]</b></a>
+      <h4>🟢 NODE: InstaExploreJetpack</h4>
+      <img src="https://raw.githubusercontent.com/mr-coder20/InstaExploreJetpack/main/img1.jpg" width="100%" style="border: 1px solid #00FF41;" />
+      <p><b>LOG:</b> Instagram Explore clone. Built with Jetpack Compose, Lottie, and Infinite Scroll logic.</p>
+      <a href="https://github.com/mr-coder20/InstaExploreJetpack"><b>[ ACCESS_SOURCE ]</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🟢 MODULE: NikeStore-App</h4>
-      <img src="https://raw.githubusercontent.com/mr-coder20/NikeStore-Application/main/img1.jpg" width="100%" style="border-radius:10px; border: 1px solid #00FF41;" />
-      <p><b>Specs:</b> E-commerce infrastructure with MVVM, Retrofit, and persistent Room Database.</p>
-      <a href="https://github.com/mr-coder20/NikeStore-Application"><b>[ SOURCE_CODE ]</b></a>
+      <h4>🟢 NODE: NikeStore-App</h4>
+      <img src="https://raw.githubusercontent.com/mr-coder20/NikeStore-Application/main/img1.jpg" width="100%" style="border: 1px solid #00FF41;" />
+      <p><b>LOG:</b> Advanced E-commerce engine. MVVM + Retrofit + Room Database integration.</p>
+      <a href="https://github.com/mr-coder20/NikeStore-Application"><b>[ ACCESS_SOURCE ]</b></a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h4>🟢 MODULE: PERSIANEFOOTBALL</h4>
-      <img src="https://raw.githubusercontent.com/mr-coder20/PERSIANEFOOTBALL/main/img1.jpg" width="100%" style="border-radius:10px; border: 1px solid #00FF41;" />
-      <p><b>Specs:</b> Sports data engine with real-time updates and localized RTL interface.</p>
-      <a href="https://github.com/mr-coder20/PERSIANEFOOTBALL"><b>[ SOURCE_CODE ]</b></a>
+      <h4>🟢 NODE: PERSIANEFOOTBALL</h4>
+      <img src="https://raw.githubusercontent.com/mr-coder20/PERSIANEFOOTBALL/main/img1.jpg" width="100%" style="border: 1px solid #00FF41;" />
+      <p><b>LOG:</b> Professional Football Data System. Optimized for RTL and real-time updates.</p>
+      <a href="https://github.com/mr-coder20/PERSIANEFOOTBALL"><b>[ ACCESS_SOURCE ]</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🟢 MODULE: Driving-License-Exam</h4>
-      <img src="https://raw.githubusercontent.com/mr-coder20/Driving-license-Exam/main/img1.jpg" width="100%" style="border-radius:10px; border: 1px solid #00FF41;" />
-      <p><b>Specs:</b> Complex logic testing system with custom state management and timers.</p>
-      <a href="https://github.com/mr-coder20/Driving-license-Exam"><b>[ SOURCE_CODE ]</b></a>
+      <h4>🟢 NODE: Rick-Morty</h4>
+      <img src="https://raw.githubusercontent.com/mr-coder20/Rick-Morty/main/img1.jpg" width="100%" style="border: 1px solid #00FF41;" />
+      <p><b>LOG:</b> External API integration node. Advanced Paging and Data Mapping.</p>
+      <a href="https://github.com/mr-coder20/Rick-Morty"><b>[ ACCESS_SOURCE ]</b></a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h4>🟢 MODULE: MusicPlayer-Engine</h4>
-      <img src="https://raw.githubusercontent.com/mr-coder20/MusicPlayer-Application/main/img1.jpg" width="100%" style="border-radius:10px; border: 1px solid #00FF41;" />
-      <p><b>Specs:</b> Low-latency audio playback system with Foreground Service integration.</p>
-      <a href="https://github.com/mr-coder20/MusicPlayer-Application"><b>[ SOURCE_CODE ]</b></a>
+      <h4>🟢 NODE: Driving-license-Exam</h4>
+      <img src="https://raw.githubusercontent.com/mr-coder20/Driving-license-Exam/main/img1.jpg" width="100%" style="border: 1px solid #00FF41;" />
+      <p><b>LOG:</b> Interactive Examination Engine. Complex state management for quiz logic.</p>
+      <a href="https://github.com/mr-coder20/Driving-license-Exam"><b>[ ACCESS_SOURCE ]</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🔴 UTILITY: Python-Security-Tool</h4>
-      <img src="https://raw.githubusercontent.com/mr-coder20/python-encrypt-decrypt-hash/main/img1.jpg" width="100%" style="border-radius:10px; border: 1px solid #FF3333;" />
-      <p><b>Specs:</b> Cryptographic toolkit for hashing, AES encryption, and data integrity checks.</p>
-      <a href="https://github.com/mr-coder20/python-encrypt-decrypt-hash"><b>[ SOURCE_CODE ]</b></a>
+      <h4>🟢 NODE: amlak / Am-lakestan</h4>
+      <img src="https://raw.githubusercontent.com/mr-coder20/amlak/main/img1.jpg" width="100%" style="border: 1px solid #00FF41;" />
+      <p><b>LOG:</b> Real Estate management platforms. UI focus on property listing and filtering.</p>
+      <a href="https://github.com/mr-coder20/amlak"><b>[ ACCESS_SOURCE ]</b></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🟢 NODE: MusicPlayer-App</h4>
+      <img src="https://raw.githubusercontent.com/mr-coder20/MusicPlayer-Application/main/img1.jpg" width="100%" style="border: 1px solid #00FF41;" />
+      <p><b>LOG:</b> Audio playback system (Java). Service-based background streaming.</p>
+      <a href="https://github.com/mr-coder20/MusicPlayer-Application"><b>[ ACCESS_SOURCE ]</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🟢 NODE: GoogleMap-App</h4>
+      <img src="https://raw.githubusercontent.com/mr-coder20/GoogleMap-Application/main/img1.jpg" width="100%" style="border: 1px solid #00FF41;" />
+      <p><b>LOG:</b> Geo-spatial integration. Custom markers and location tracking.</p>
+      <a href="https://github.com/mr-coder20/GoogleMap-Application"><b>[ ACCESS_SOURCE ]</b></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🟢 NODE: FileManager-App</h4>
+      <img src="https://raw.githubusercontent.com/mr-coder20/FileManager-Application/main/img1.jpg" width="100%" style="border: 1px solid #00FF41;" />
+      <p><b>LOG:</b> File system explorer. Handling I/O operations and directory indexing.</p>
+      <a href="https://github.com/mr-coder20/FileManager-Application"><b>[ ACCESS_SOURCE ]</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔴 NODE: python-encrypt-decrypt</h4>
+      <img src="https://raw.githubusercontent.com/mr-coder20/python-encrypt-decrypt-hash/main/img1.jpg" width="100%" style="border: 1px solid #FF3333;" />
+      <p><b>LOG:</b> Security Toolkit. Hashing algorithms, AES encryption, and data obfuscation.</p>
+      <a href="https://github.com/mr-coder20/python-encrypt-decrypt-hash"><b>[ ACCESS_SOURCE ]</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛰️ [ SYSTEM_ANALYTICS_LOG ]
+### ⚡ [ SYSTEM_CORE_METRICS ]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-coder20&show_icons=true&theme=matrix&hide_border=true" width="48%" />
@@ -74,18 +106,17 @@
 
 ---
 
-### 🌐 [ ESTABLISH_COMMUNICATION ]
+### 📡 [ ESTABLISH_ENCRYPTED_CONNECTION ]
 
 <div align="center">
-  <br>
   <a href="https://t.me/a_god_3_6_9">
-    <img src="https://img.shields.io/badge/TERMINAL-TELEGRAM-00FF41?style=for-the-badge&logo=telegram&logoColor=black" />
+    <img src="https://img.shields.io/badge/TELEGRAM_TERMINAL-00FF41?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
   <a href="mailto:amirhosseinghafari29@gmail.com">
-    <img src="https://img.shields.io/badge/TERMINAL-EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/SMTP_MAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=mr-coder20&label=SYSTEM_ACCESS_COUNT&color=00FF41&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=mr-coder20&label=TOTAL_INTRUSIONS&color=00FF41&style=flat-square" />
   <br>
-  <code>[SYSTEM STATUS: ENCRYPTED & OPERATIONAL]</code>
+  <code>[ STATUS: ANONYMOUS | ROLE: ANDROID_EXPERT ]</code>
 </div>
