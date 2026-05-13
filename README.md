@@ -106,7 +106,22 @@ Real estate management system with advanced filters and custom mapping.
 
 </td>
 
-<td width="50%" bgcolor="#000000"></td>
+<table>
+<td width="50%" bgcolor="#000000">
+
+<h2>🚫 DON'T CONNECT</h2>
+<font size="2" color="#00FF41">
+Social satire app combining inflation calculator & fake VPN simulator. Built with Jetpack Compose, Adivery ads, Myket IAP, multi-language, dark/light theme.
+</font><br>
+<code>ROLE : HYBRID_UTILITY_SYSTEM</code><br>
+<code>LANGUAGE : Kotlin</code><br>
+<code>VISIBILITY : Public</code><br>
+<code>UPDATED : 3 minutes ago</code><br>
+<a href="https://github.com/mr-coder20/DontConnect"><code>[ VIEW_SOURCE ]</code></a>
+
+</td>
+
+<td width="50%" bgcolor="#000000"> <!-- Reserved slot for future project --> </td>
 </tr>
 
 <tr>
