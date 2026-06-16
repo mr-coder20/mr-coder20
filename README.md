@@ -1,205 +1,98 @@
-<table>
+<div style="padding: 20px; font-family: 'Segoe UI', sans-serif;">
 
-<tr>
-<td width="50%" bgcolor="#000000">
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">🔍 PORT-SCANNER</h3>
+    <p style="font-size: 13px; color: #ccc;">Network utility for port security analysis.</p>
+    <code style="color: #00FF41;">Kotlin</code> | <small>Updated: 2 weeks ago</small><br>
+    <a href="https://github.com/mr-coder20/port-scanner" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-<h2>🧠 SOLITPY</h2>
-<font size="2" color="#00FF41">
-High-performance Kotlin core utilities module for building scalable Android systems.
-</font><br>
-<code>ROLE : FOUNDATION_LAYER</code><br>
-<code>LANGUAGE : Kotlin</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : 15 minutes ago</code><br>
-<a href="https://github.com/mr-coder20/Solitpy"><code>[ VIEW_SOURCE ]</code></a>
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">🚫 DON'T CONNECT</h3>
+    <p style="font-size: 13px; color: #ccc;">Social satire & VPN simulator.</p>
+    <code style="color: #00FF41;">Kotlin</code> | <small>Updated: May 14</small><br>
+    <a href="https://github.com/mr-coder20/DontConnect" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-</td>
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">🌐 MY-PORTFOLIO</h3>
+    <p style="font-size: 13px; color: #ccc;">Cyber-themed personal space.</p>
+    <code style="color: #00FF41;">HTML</code> | <small>Updated: Jan 8</small><br>
+    <a href="https://mr-coder20.github.io/my-portfolio/" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SITE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-<td width="50%" bgcolor="#000000">
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">🧠 SOLITPY</h3>
+    <p style="font-size: 13px; color: #ccc;">High-performance Kotlin core utilities.</p>
+    <code style="color: #00FF41;">Kotlin</code> | <small>Updated: Jan 4</small><br>
+    <a href="https://github.com/mr-coder20/Solitpy" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-<h2>🌐 MY-PORTFOLIO</h2>
-<font size="2" color="#00FF41">
-Cyber-themed personal portfolio website with responsive and modern design.
-</font><br>
-<code>ROLE : PERSONAL_BRANDING_SYSTEM</code><br>
-<code>LANGUAGE : HTML</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : 1 hour ago</code><br>
-<a href="https://mr-coder20.github.io/my-portfolio/"><code>[ VIEW_SITE ]</code></a>
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">⚽ PERSIAN E FOOTBALL</h3>
+    <p style="font-size: 13px; color: #ccc;">Live tracker with instant alerts.</p>
+    <code style="color: #00FF41;">Kotlin</code> | <small>Updated: Dec 12, 2025</small><br>
+    <a href="https://github.com/mr-coder20/PERSIANEFOOTBALL" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-</td>
-</tr>
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">🧿 INSTA EXPLORE JETPACK</h3>
+    <p style="font-size: 13px; color: #ccc;">Jetpack Compose UI/UX showcase.</p>
+    <code style="color: #00FF41;">Kotlin</code> | <small>Updated: Jun 29, 2025</small><br>
+    <a href="https://github.com/mr-coder20/InstaExploreJetpack" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-<tr>
-<td width="50%" bgcolor="#000000">
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">🧪 RICK & MORTY</h3>
+    <p style="font-size: 13px; color: #ccc;">Fast character search engine.</p>
+    <code style="color: #00FF41;">Kotlin</code> | <small>Updated: Nov 20, 2024</small><br>
+    <a href="https://github.com/mr-coder20/Rick-Morty" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-<h2>⚽ PERSIAN E FOOTBALL</h2>
-<font size="2" color="#00FF41">
-Live football tracker with Persian localization and instant goal alerts.
-</font><br>
-<code>ROLE : REALTIME_DATA_STREAM</code><br>
-<code>LANGUAGE : Kotlin</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : 3 weeks ago</code><br>
-<a href="https://github.com/mr-coder20/PERSIANEFOOTBALL"><code>[ VIEW_SOURCE ]</code></a>
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">🚗 DRIVING LICENSE EXAM</h3>
+    <p style="font-size: 13px; color: #ccc;">Smart driving exam simulator.</p>
+    <code style="color: #00FF41;">Kotlin</code> | <small>Updated: Oct 17, 2024</small><br>
+    <a href="https://github.com/mr-coder20/Driving-license-Exam" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-</td>
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">🏠 AMLAK</h3>
+    <p style="font-size: 13px; color: #ccc;">Real estate management system.</p>
+    <code style="color: #00FF41;">Kotlin</code> | <small>Updated: Aug 16, 2024</small><br>
+    <a href="https://github.com/mr-coder20/amlak" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-<td width="50%" bgcolor="#000000">
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">🎵 MUSIC PLAYER</h3>
+    <p style="font-size: 13px; color: #ccc;">Professional audio playback engine.</p>
+    <code style="color: #00FF41;">Java</code> | <small>Updated: Jul 22, 2024</small><br>
+    <a href="https://github.com/mr-coder20/MusicPlayer-Application" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-<h2>🧿 INSTA EXPLORE JETPACK</h2>
-<font size="2" color="#00FF41">
-Instagram Explore clone built with Jetpack Compose. Features responsive grid, infinite scroll, Lottie animations, and handles network connectivity.
-</font><br>
-<code>ROLE : UI_UX_SHOWCASE</code><br>
-<code>LANGUAGE : Kotlin</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>FEATURES : Compose | Lottie | Infinite Scroll | Interactive Animations</code><br>
-<code>UPDATED : Jun 29, 2025</code><br>
-<a href="https://github.com/mr-coder20/InstaExploreJetpack"><code>[ VIEW_SOURCE ]</code></a>
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #FF3333; margin: 0;">🔐 PYTHON ENCRYPT & HASH</h3>
+    <p style="font-size: 13px; color: #ccc;">Security & obfuscation toolkit.</p>
+    <code style="color: #FF3333;">Python</code> | <small>Updated: Jul 4, 2024</small><br>
+    <a href="https://github.com/mr-coder20/python-encrypt-decrypt-hash" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
 
-</td>
-</tr>
+<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
+    <h3 style="color: #00FF41; margin: 0;">👟 NIKE STORE</h3>
+    <p style="font-size: 13px; color: #ccc;">Production-level E-commerce app.</p>
+    <code style="color: #00FF41;">Kotlin</code> | <small>Updated: Jul 3, 2024</small><br>
+    <a href="https://github.com/mr-coder20/NikeStore-Application" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
+</div>
 
-<tr>
-<td width="50%" bgcolor="#000000">
-
-<h2>🧪 RICK & MORTY</h2>
-<font size="2" color="#00FF41">
-Fast character search engine with Paging 3 and analytics integration.
-</font><br>
-<code>ROLE : DATA_QUERY_ENGINE</code><br>
-<code>LANGUAGE : Kotlin</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : Nov 20, 2024</code><br>
-<a href="https://github.com/mr-coder20/Rick-Morty"><code>[ VIEW_SOURCE ]</code></a>
-
-</td>
-
-<td width="50%" bgcolor="#000000">
-
-<h2>🚗 DRIVING LICENSE EXAM</h2>
-<font size="2" color="#00FF41">
-Smart driving exam simulator with scoring analytics and persistent data storage.
-</font><br>
-<code>ROLE : SMART_ASSESSMENT_PLATFORM</code><br>
-<code>LANGUAGE : Kotlin</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : Oct 17, 2024</code><br>
-<a href="https://github.com/mr-coder20/Driving-license-Exam"><code>[ VIEW_SOURCE ]</code></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" bgcolor="#000000">
-
-<h2>🏠 AMLAK</h2>
-<font size="2" color="#00FF41">
-Real estate management system with advanced filters and custom mapping.
-</font><br>
-<code>ROLE : PROPERTY_MANAGEMENT_ENGINE</code><br>
-<code>LANGUAGE : Kotlin</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : Aug 16, 2024</code><br>
-<a href="https://github.com/mr-coder20/amlak"><code>[ VIEW_SOURCE ]</code></a>
-
-</td>
-
-<table>
-<td width="50%" bgcolor="#000000">
-
-<h2>🚫 DON'T CONNECT</h2>
-<font size="2" color="#00FF41">
-Social satire app combining inflation calculator & fake VPN simulator. Built with Jetpack Compose, Adivery ads, Myket IAP, multi-language, dark/light theme.
-</font><br>
-<code>ROLE : HYBRID_UTILITY_SYSTEM</code><br>
-<code>LANGUAGE : Kotlin</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : 3 minutes ago</code><br>
-<a href="https://github.com/mr-coder20/DontConnect"><code>[ VIEW_SOURCE ]</code></a>
-
-</td>
-
-<td width="50%" bgcolor="#000000"> <!-- Reserved slot for future project --> </td>
-</tr>
-
-<tr>
-<td width="50%" bgcolor="#000000">
-
-<h2>🎵 MUSIC PLAYER</h2>
-<font size="2" color="#00FF41">
-Professional Android music player with background playback and audio focus control.
-</font><br>
-<code>ROLE : MULTIMEDIA_ENGINE</code><br>
-<code>LANGUAGE : Java</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : Jul 22, 2024</code><br>
-<a href="https://github.com/mr-coder20/MusicPlayer-Application"><code>[ VIEW_SOURCE ]</code></a>
-
-</td>
-
-<td width="50%" bgcolor="#000000">
-
-<h2>🔐 PYTHON ENCRYPT & HASH</h2>
-<font size="2" color="#FF3333">
-Security toolkit for encryption, irreversible hashing, and data obfuscation.
-</font><br>
-<code>ROLE : SECURITY_CRYPTO_SUITE</code><br>
-<code>LANGUAGE : Python</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : Jul 4, 2024</code><br>
-<a href="https://github.com/mr-coder20/python-encrypt-decrypt-hash"><code>[ VIEW_SOURCE ]</code></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" bgcolor="#000000">
-
-<h2>👟 NIKE STORE</h2>
-<font size="2" color="#00FF41">
-Production-level e-commerce Android app with Clean Architecture and payment simulation.
-</font><br>
-<code>ROLE : ECOMMERCE_PLATFORM</code><br>
-<code>LANGUAGE : Kotlin</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : Jul 3, 2024</code><br>
-<a href="https://github.com/mr-coder20/NikeStore-Application"><code>[ VIEW_SOURCE ]</code></a>
-
-</td>
-
-<td width="50%" bgcolor="#000000">
-
-<h2>🗺 GOOGLE MAP SYSTEM</h2>
-<font size="2" color="#00FF41">
-Live GPS tracking with intelligent routing and custom map overlays.
-</font><br>
-<code>ROLE : GEOLOCATION_ENGINE</code><br>
-<code>LANGUAGE : Java</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : Jul 3, 2024</code><br>
-<a href="https://github.com/mr-coder20/GoogleMap-Application"><code>[ VIEW_SOURCE ]</code></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" bgcolor="#000000">
-
-<h2>🗄 FILE MANAGER</h2>
-<font size="2" color="#00FF41">
-Advanced Android file manager with root access and smart file categorization.
-</font><br>
-<code>ROLE : STORAGE_CONTROL_SYSTEM</code><br>
-<code>LANGUAGE : Java</code><br>
-<code>VISIBILITY : Public</code><br>
-<code>UPDATED : Jul 3, 2024</code><br>
-<a href="https://github.com/mr-coder20/FileManager-Application"><code>[ VIEW_SOURCE ]</code></a>
-
-</td>
-
-<td width="50%" bgcolor="#000000"></td>
-</tr>
-
-</table>
+</div>
