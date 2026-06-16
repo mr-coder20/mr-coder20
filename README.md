@@ -1,14 +1,6 @@
 <div style="padding: 20px; font-family: 'Segoe UI', sans-serif;">
 
 <div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
-    <h3 style="color: #00FF41; margin: 0;">🔍 PORT-SCANNER</h3>
-    <p style="font-size: 13px; color: #ccc;">Network utility for port security analysis.</p>
-    <code style="color: #00FF41;">Kotlin</code> | <small>Updated: 2 weeks ago</small><br>
-    <a href="https://github.com/mr-coder20/port-scanner" style="color: #fff; text-decoration: none; font-size: 12px;">[ VIEW_SOURCE ]</a>
-</div>
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #00FF41, transparent);">
-
-<div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
     <h3 style="color: #00FF41; margin: 0;">🚫 DON'T CONNECT</h3>
     <p style="font-size: 13px; color: #ccc;">Social satire & VPN simulator.</p>
     <code style="color: #00FF41;">Kotlin</code> | <small>Updated: May 14</small><br>
