@@ -12,7 +12,7 @@
 <div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
     <h3 style="color:#00FF41;">🔥 FIRESCAN</h3>
     <p style="color:#ccc;">Advanced network security and packet scanning tool.</p>
-    <code style="color:#00FF41;">Kotlin</code> | <small>Updated: Just Now</small><br>
+    <code style="color:#00FF41;">GoLang</code> | <small>Updated: Just Now</small><br>
     <a href="https://github.com/mr-coder20/FireScan" style="color:#fff;">[ VIEW_SOURCE ]</a>
 </div>
 
