@@ -1,5 +1,13 @@
-<div style="background: #0d1117; padding: 20px; font-family: 'Segoe UI', sans-serif; border-radius: 15px;">
+<hr style="border-color: rgba(255,255,255,0.1);">
 
+<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
+    <h3 style="color:#00FF41;">🚀 COMPOSE XRAY</h3>
+    <p style="color:#ccc;">Ultimate Web Forensic & OSINT Profiler. Fingerprint tech stacks, audit security headers, and map infrastructure with a next-gen Liquid-Glass Cyberpunk UI.</p>
+    <code style="color:#00FF41;">Kotlin (Wasm & Compose Multiplatform)</code> | <small>Updated: Just Now</small><br>
+    <a href="https://github.com/mr-coder20/ComposeXray" style="color:#fff;">[ VIEW_SOURCE ]</a>
+</div>
+<div style="background: #0d1117; padding: 20px; font-family: 'Segoe UI', sans-serif; border-radius: 15px;">
+<hr style="border-color: rgba(255,255,255,0.1);">
 <div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
     <h3 style="color:#00FF41;">🌐 PORTX</h3>
     <p style="color:#ccc;">Modern, high-performance, multi-platform network security toolkit.</p>
