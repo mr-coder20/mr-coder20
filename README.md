@@ -1,171 +1,180 @@
-<hr style="border-color: rgba(255,255,255,0.1);">
+<div align="center">
 
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🚀 COMPOSE XRAY</h3>
-    <p style="color:#ccc;">Ultimate Web Forensic & OSINT Profiler. Fingerprint tech stacks, audit security headers, and map infrastructure with a next-gen Liquid-Glass Cyberpunk UI.</p>
-    <code style="color:#00FF41;">Kotlin (Wasm & Compose Multiplatform)</code> | <small>Updated: Just Now</small><br>
-    <a href="https://github.com/mr-coder20/ComposeXray" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-<div style="background: #0d1117; padding: 20px; font-family: 'Segoe UI', sans-serif; border-radius: 15px;">
-<hr style="border-color: rgba(255,255,255,0.1);">
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🌐 PORTX</h3>
-    <p style="color:#ccc;">Modern, high-performance, multi-platform network security toolkit.</p>
-    <code style="color:#00FF41;">Kotlin (Compose Multiplatform)</code> | <small>Updated: Just Now</small><br>
-    <a href="https://github.com/mr-coder20/PortX" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
+# SOFTWARE ENGINEER
 
-<hr style="border-color: rgba(255,255,255,0.1);">
+### Cybersecurity · Systems · Infrastructure
 
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🔥 FIRESCAN</h3>
-    <p style="color:#ccc;">Advanced network security and packet scanning tool.</p>
-    <code style="color:#00FF41;">GoLang</code> | <small>Updated: Just Now</small><br>
-    <a href="https://github.com/mr-coder20/FireScan" style="color:#fff;">[ VIEW_SOURCE ]</a>
+**Building secure software systems.
+Engineering the architecture behind them.**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-mr--coder20-181717?style=for-the-badge\&logo=github)](https://github.com/mr-coder20)
+[![Security](https://img.shields.io/badge/Focus-Cybersecurity-111827?style=for-the-badge\&logo=hackthebox)](https://github.com/mr-coder20)
+[![Systems](https://img.shields.io/badge/Focus-Systems_%26_Infrastructure-111827?style=for-the-badge\&logo=linux)](https://github.com/mr-coder20)
+
 </div>
 
-<hr style="border-color: rgba(255,255,255,0.1);">
+---
 
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🧨 L7 RESILIENCE SCANNER</h3>
-    <p style="color:#ccc;">Real-time Layer 7 traffic analysis tool.</p>
-    <code style="color:#00FF41;">Python</code> | <small>Updated: Jun 2026</small><br>
-    <a href="https://github.com/mr-coder20/L7-Resilience-Scanner" style="color:#fff;">[ VIEW_SOURCE ]</a>
+## `01` — ENGINEERING MISSION
+
+I design and build software systems with a strong focus on:
+
+* **Cybersecurity Engineering**
+* **Network & Application Security**
+* **Systems Architecture**
+* **Infrastructure & Automation**
+* **Security Tooling**
+* **Performance & Resilience**
+* **AI-assisted Engineering**
+
+My work sits at the intersection of **software engineering, security, infrastructure, and systems design.**
+
+---
+
+## `02` — CURRENTLY BUILDING
+
+### ⚡ Security Engineering Ecosystem
+
+A growing collection of security-focused systems designed around one principle:
+
+> **Build systems that can observe, analyze, defend, and scale.**
+
+| Project                   | Purpose                                 | Stack                          |
+| ------------------------- | --------------------------------------- | ------------------------------ |
+| **PORTX**                 | Multi-platform network security toolkit | Kotlin / Compose Multiplatform |
+| **FIRESCAN**              | Adaptive high-performance port scanning | Go                             |
+| **L7-Resilience-Scanner** | Layer 7 traffic analysis & resilience   | Python                         |
+
+---
+
+## `03` — FEATURED SYSTEMS
+
+### ⚡ PORTX
+
+**Modern, high-performance, multi-platform network security toolkit.**
+
+Designed to bring practical network security capabilities into a modern cross-platform engineering environment.
+
+**Kotlin · Compose Multiplatform · Networking · Security**
+
+→ [Explore PORTX](https://github.com/mr-coder20/PortX)
+
+---
+
+### 🔥 FIRESCAN
+
+**Adaptive multi-engine network reconnaissance and analysis.**
+
+Combines multiple scanning engines with intelligent timing and structured output to create a flexible security reconnaissance platform.
+
+**Go · Networking · Security · Automation**
+
+→ [Explore FIRESCAN](https://github.com/mr-coder20/FireScan)
+
+---
+
+### 🛡 L7 RESILIENCE SCANNER
+
+**Real-time Layer 7 traffic analysis and application resilience research platform.**
+
+Focused on detecting anomalous HTTP behavior, automated traffic, application-layer attacks and resilience weaknesses.
+
+**Python · HTTP · Traffic Analysis · Detection Engineering**
+
+→ [Explore L7 RESILIENCE SCANNER](https://github.com/mr-coder20/L7-Resilience-Scanner)
+
+---
+
+## `04` — ENGINEERING STACK
+
+### Languages
+
+`Python` · `Go` · `Kotlin` · `Java`
+
+### Security
+
+`Network Security` · `Application Security` · `Traffic Analysis`
+`Threat Detection` · `Security Automation` · `Resilience Engineering`
+
+### Systems
+
+`Linux` · `Docker` · `Networking` · `Infrastructure`
+
+### Engineering
+
+`System Architecture` · `Automation` · `Performance`
+`Observability` · `CI/CD` · `Open Source`
+
+---
+
+## `05` — ENGINEERING PRINCIPLES
+
+```text
+SECURITY
+    ↓
+ARCHITECTURE
+    ↓
+ENGINEERING
+    ↓
+AUTOMATION
+    ↓
+RESILIENCE
+    ↓
+SCALE
+```
+
+I don't build software simply to make it work.
+
+I build systems to understand:
+
+* how they behave,
+* how they fail,
+* how they scale,
+* how they can be attacked,
+* and how they can be engineered to become more resilient.
+
+---
+
+## `06` — OPEN SOURCE
+
+I'm interested in building and contributing to systems involving:
+
+**Security · Infrastructure · Networking · Developer Tools · Automation · AI**
+
+If a project solves a real engineering problem, I'm interested in building it.
+
+---
+
+## `07` — GITHUB ACTIVITY
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-coder20\&show_icons=true\&hide_border=true\&rank_icon=github\&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-coder20\&layout=compact\&hide_border=true\&theme=transparent)
+
 </div>
 
-<hr style="border-color: rgba(255,255,255,0.1);">
+---
 
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">⚽ PERSIAN E FOOTBALL</h3>
-    <p style="color:#ccc;">Live tracker with instant alerts.</p>
-    <code style="color:#00FF41;">Kotlin</code> | <small>Updated: Dec 12, 2025</small><br>
-    <a href="https://github.com/mr-coder20/PERSIANEFOOTBALL" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
+## `08` — CONNECT
 
-<hr style="border-color: rgba(255,255,255,0.1);">
+**GitHub**
+https://github.com/mr-coder20
 
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🧿 INSTA EXPLORE JETPACK</h3>
-    <p style="color:#ccc;">Instagram explore clone.</p>
-    <code style="color:#00FF41;">Kotlin</code> | <small>Updated: Jun 29, 2025</small><br>
-    <a href="https://github.com/mr-coder20/InstaExploreJetpack" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
+**Telegram**
+https://t.me/a_god_3_6_9
 
-<hr style="border-color: rgba(255,255,255,0.1);">
+---
 
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🚫 DON'T CONNECT</h3>
-    <p style="color:#ccc;">VPN simulator & satire project.</p>
-    <code style="color:#00FF41;">Kotlin</code> | <small>Updated: May 14, 2025</small><br>
-    <a href="https://github.com/mr-coder20/DontConnect" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
+<div align="center">
 
-<hr style="border-color: rgba(255,255,255,0.1);">
+### BUILD SECURE SYSTEMS.
 
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🌐 MY PORTFOLIO</h3>
-    <p style="color:#ccc;">Cyber-themed personal site.</p>
-    <code style="color:#00FF41;">HTML</code> | <small>Updated: Jan 8, 2025</small><br>
-    <a href="https://mr-coder20.github.io/my-portfolio/" style="color:#fff;">[ VIEW_SITE ]</a>
-</div>
+### ENGINEER FOR RESILIENCE.
 
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🧠 SOLITPY</h3>
-    <p style="color:#ccc;">High-performance Kotlin utilities.</p>
-    <code style="color:#00FF41;">Kotlin</code> | <small>Updated: Jan 4, 2025</small><br>
-    <a href="https://github.com/mr-coder20/Solitpy" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🧪 RICK & MORTY</h3>
-    <p style="color:#ccc;">Character search engine.</p>
-    <code style="color:#00FF41;">Kotlin</code> | <small>Updated: Nov 20, 2024</small><br>
-    <a href="https://github.com/mr-coder20/Rick-Morty" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🚗 DRIVING LICENSE EXAM</h3>
-    <p style="color:#ccc;">Smart driving exam simulator.</p>
-    <code style="color:#00FF41;">Kotlin</code> | <small>Updated: Oct 17, 2024</small><br>
-    <a href="https://github.com/mr-coder20/Driving-license-Exam" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🏠 AMLAK</h3>
-    <p style="color:#ccc;">Real estate system.</p>
-    <code style="color:#00FF41;">Kotlin</code> | <small>Updated: Aug 16, 2024</small><br>
-    <a href="https://github.com/mr-coder20/amlak" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🏢 AM-LAKESTAN</h3>
-    <p style="color:#ccc;">Real estate extension system.</p>
-    <code style="color:#00FF41;">Kotlin</code> | <small>Updated: Aug 13, 2024</small><br>
-    <a href="https://github.com/mr-coder20/Am-lakestan" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🎵 MUSIC PLAYER</h3>
-    <p style="color:#ccc;">Audio playback engine.</p>
-    <code style="color:#00FF41;">Java</code> | <small>Updated: Jul 22, 2024</small><br>
-    <a href="https://github.com/mr-coder20/MusicPlayer-Application" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#FF3333;">🔐 PYTHON ENCRYPT & HASH</h3>
-    <p style="color:#ccc;">Security toolkit.</p>
-    <code style="color:#FF3333;">Python</code> | <small>Updated: Jul 4, 2024</small><br>
-    <a href="https://github.com/mr-coder20/python-encrypt-decrypt-hash" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">👟 NIKE STORE</h3>
-    <p style="color:#ccc;">E-commerce app.</p>
-    <code style="color:#00FF41;">Kotlin</code> | <small>Updated: Jul 3, 2024</small><br>
-    <a href="https://github.com/mr-coder20/NikeStore-Application" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🗺 GOOGLE MAP APP</h3>
-    <p style="color:#ccc;">Maps Android application.</p>
-    <code style="color:#00FF41;">Java</code> | <small>Updated: Jul 3, 2024</small><br>
-    <a href="https://github.com/mr-coder20/GoogleMap-Application" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">📁 FILE MANAGER</h3>
-    <p style="color:#ccc;">Android file management system.</p>
-    <code style="color:#00FF41;">Java</code> | <small>Updated: Jul 3, 2024</small><br>
-    <a href="https://github.com/mr-coder20/FileManager-Application" style="color:#fff;">[ VIEW_SOURCE ]</a>
-</div>
-
-<hr style="border-color: rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255, 255, 255, 0.03); padding: 20px; border-radius: 15px;">
-    <h3 style="color:#00FF41;">🙂 MR-CODER20 PROFILE</h3>
-    <p style="color:#ccc;">GitHub profile repository.</p>
-    <code style="color:#00FF41;">GitHub</code> | <small>Updated: Recent</small><br>
-    <a href="https://github.com/mr-coder20" style="color:#fff;">[ VIEW_PROFILE ]</a>
-</div>
+### SCALE WITH INTENT.
 
 </div>
