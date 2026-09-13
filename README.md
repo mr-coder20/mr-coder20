@@ -1,450 +1,493 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=MR-CODER20&fontAlign=50&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20SYSTEMS&descAlign=50&descAlignY=55&animation=fadeIn&fontSize=52&descSize=16" width="100%" />
-
-<br>
-
-# `BUILD. SECURE. ENGINEER. SCALE.`
-
-### Software Engineering × Cybersecurity × Systems Architecture
-
-<p align="center">
-I build secure, resilient and performance-oriented systems —<br>
-from low-level networking and security tooling to scalable software architecture.
-</p>
-
-<br>
-
 <a href="https://github.com/mr-coder20">
-  <img src="https://img.shields.io/badge/GITHUB-mr--coder20-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071a17,100:00ff9c&height=280&section=header&text=MR-CODER20&fontSize=64&fontColor=00ff9c&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20ENGINEER%20%2F%2F%20CYBERSECURITY%20%20%2F%2F%20SYSTEMS&descAlignY=62&descSize=17&descColor=c7fff0" width="100%"/>
+
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=mr-coder20&style=for-the-badge&label=PROFILE+VIEWS">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=700&color=00FF9C&center=true&vCenter=true&width=1000&lines=%5B+SYSTEM+ONLINE+%5D;%3E+Engineering+secure+software+systems...;%3E+Analyzing+networks...;%3E+Building+security+infrastructure...;%3E+Designing+resilient+systems...;%3E+STATUS%3A+READY_TO_BUILD" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&center=true&vCenter=true&width=850&lines=Engineering+secure+software+systems.;Designing+architecture+behind+resilient+platforms.;Building+security+tools+for+real-world+problems.;Networking+%E2%80%A2+Infrastructure+%E2%80%A2+Automation+%E2%80%A2+Security" />
+<img src="https://img.shields.io/badge/%24%20SYSTEM-ONLINE-00ff9c?style=for-the-badge&labelColor=050505&logo=linux&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/SECURITY-ENGINEERING-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/SYSTEMS-ARCHITECTURE-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-AUTOMATION-00ff9c?style=for-the-badge&labelColor=050505"/>
+
+<br><br>
+
+> **BUILD SECURE SYSTEMS.**
+> **ENGINEER THE ARCHITECTURE BEHIND THEM.**
 
 </div>
 
 ---
-
-## `$ whoami`
-
-```text
-ROLE        Software Engineer
-DOMAIN      Cybersecurity / Systems / Infrastructure
-FOCUS       Secure Architecture • Networking • Automation
-MINDSET     Build systems that survive real-world conditions
-MISSION     Engineer software that is secure by design
-```
-
-I work at the intersection of **software engineering, cybersecurity, networking and infrastructure**.
-
-My engineering philosophy is simple:
-
-> Software should not only work.
-> It should be observable, secure, resilient, scalable and understandable.
-
----
-
-# ⚡ Engineering Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡 Cybersecurity Engineering
-
-```text
-Network Security
-Application Security
-Traffic Analysis
-Threat Detection
-Security Automation
-Resilience Engineering
-```
-
-I build tooling and systems focused on understanding **how software behaves under hostile or abnormal conditions**.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Systems Engineering
-
-```text
-System Architecture
-Infrastructure
-Networking
-Concurrency
-Performance Engineering
-Automation
-Observability
-```
-
-My focus extends beyond writing code into designing the **architecture and operational environment behind it**.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🔥 Featured Engineering
 
 <div align="center">
 
-## `01 // FIRESCAN`
-
-### Adaptive Multi-Engine Network Reconnaissance
-
-**Masscan × Nmap × RustScan × Naabu × Pure-Go**
-
-<img src="https://img.shields.io/badge/GO-ENGINE-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/NETWORK-SECURITY-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/ADAPTIVE-TIMING-111827?style=for-the-badge">
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   [ IDENTITY ]                                                   ║
+║                                                                  ║
+║   SOFTWARE ENGINEER                                              ║
+║   ├── Cybersecurity Engineering                                 ║
+║   ├── Systems Architecture                                      ║
+║   ├── Network Engineering                                       ║
+║   ├── Infrastructure                                             ║
+║   └── Security Automation                                        ║
+║                                                                  ║
+║   [ OBJECTIVE ]                                                  ║
+║                                                                  ║
+║   BUILD → ANALYZE → HARDEN → AUTOMATE → SCALE                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-FireScan is a hybrid network reconnaissance engine designed around **multiple scanning backends, adaptive execution and structured reporting**.
+# `root@mr-coder20:~# whoami`
+
+I am a **Software Engineer** focused on building secure, resilient and performance-oriented systems.
+
+My work lives where these domains intersect:
 
 ```text
-TARGET
-   │
-   ▼
-┌─────────────────────────────┐
-│        FireScan Core        │
-├─────────────────────────────┤
-│ Engine Selection            │
-│ Adaptive Timing             │
-│ Result Normalization        │
-│ Failure / Fallback Handling │
-└──────────────┬──────────────┘
-               │
-      ┌────────┼────────┐
-      ▼        ▼        ▼
-   Masscan    Nmap    RustScan
-      │        │        │
-      └────┬───┴────┬───┘
-           ▼        ▼
-         Naabu   Pure-Go
-           │
-           ▼
-     Normalized Results
-           │
-     ┌─────┼─────┐
-     ▼     ▼     ▼
-    JSON  CSV   HTML
+                  SOFTWARE ENGINEERING
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+          ▼              ▼              ▼
+      SECURITY        NETWORKS       SYSTEMS
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                         ▼
+                 INFRASTRUCTURE
+                         │
+                         ▼
+                    AUTOMATION
+                         │
+                         ▼
+                     RESILIENCE
 ```
 
-<p align="center">
+I don't treat security as an afterthought.
+
+**Security is an architectural property.**
+
+---
+
+# `./focus --verbose`
+
+<div align="center">
+
+|          `01`         |      `02`      |         `03`        |
+| :-------------------: | :------------: | :-----------------: |
+| 🛡️ **CYBERSECURITY** | ⚙️ **SYSTEMS** |  🌐 **NETWORKING**  |
+| Detection Engineering |  Architecture  |   Network Analysis  |
+|  Application Security |   Performance  |      Protocols      |
+|  Security Automation  |   Concurrency  |    Infrastructure   |
+|       Resilience      |  Observability | Distributed Systems |
+
+</div>
+
+---
+
+# `./projects --classified`
+
+<div align="center">
+
+## `████████████████████████████████`
+
+## `PROJECT // FIRESCAN`
+
+### `ADAPTIVE NETWORK RECONNAISSANCE ENGINE`
+
+## `████████████████████████████████`
+
+<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/MULTI--ENGINE-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/ADAPTIVE_TIMING-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/JSON%20%7C%20CSV%20%7C%20HTML-00ff9c?style=for-the-badge&labelColor=050505"/>
+
+</div>
+
+> **Five engines. One orchestration layer. Adaptive execution.**
+
+```text
+                         FIRESCAN
+                            │
+                  ┌─────────┴─────────┐
+                  │   ORCHESTRATOR    │
+                  └─────────┬─────────┘
+                            │
+          ┌─────────┬───────┼───────┬─────────┐
+          ▼         ▼       ▼       ▼         ▼
+       MASSCAN    NMAP   RUSTSCAN  NAABU   PURE-GO
+          │         │       │       │         │
+          └─────────┴───────┼───────┴─────────┘
+                            ▼
+                  RESULT NORMALIZATION
+                            │
+              ┌─────────────┼─────────────┐
+              ▼             ▼             ▼
+             JSON          CSV           HTML
+```
+
+FireScan is designed around **hybrid scanning, engine orchestration, adaptive timing and normalized reporting**.
+
 <a href="https://github.com/mr-coder20/FireScan">
-<img src="https://img.shields.io/badge/EXPLORE-FIRESCAN-FF4500?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/%3E_%20ENTER_FIRESCAN-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
 </a>
-</p>
 
 ---
 
 <div align="center">
 
-## `02 // PORTX`
+## `████████████████████████████████`
 
-### Multi-Platform Network Security Toolkit
+## `PROJECT // PORTX`
 
-<img src="https://img.shields.io/badge/KOTLIN-MULTIPLATFORM-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/COMPOSE-MULTIPLATFORM-4285F4?style=for-the-badge">
-<img src="https://img.shields.io/badge/NETWORK-ENGINEERING-111827?style=for-the-badge">
+### `MULTI-PLATFORM NETWORK SECURITY TOOLKIT`
+
+## `████████████████████████████████`
+
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/KMP-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/COMPOSE-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/NETWORK_SECURITY-00ff9c?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
-PortX explores a different side of security engineering:
-
-**modern cross-platform tooling built around network visibility, performance and usability.**
-
 ```text
-                   PORTX
-
-        ┌────────────┴────────────┐
-        │                         │
-        ▼                         ▼
- NETWORK ENGINE              MODERN UI
-        │                         │
-        ▼                         ▼
- Port Analysis              Compose UI
- Discovery                  Multiplatform
- Security Logic             Visualization
-        │                         │
-        └────────────┬────────────┘
-                     ▼
-            SECURITY WORKSPACE
+                         PORTX
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+             ▼                           ▼
+       NETWORK ENGINE                SECURITY UX
+             │                           │
+       ┌─────┼─────┐                ┌────┼────┐
+       ▼     ▼     ▼                ▼    ▼    ▼
+    ANALYZE SCAN  DISCOVER        VISUALIZE CONTROL MONITOR
+             │                           │
+             └─────────────┬─────────────┘
+                           ▼
+                  SECURITY WORKSPACE
 ```
 
-<p align="center">
+A modern engineering approach to **cross-platform network security tooling**, built with Kotlin Multiplatform and Compose.
+
 <a href="https://github.com/mr-coder20/PortX">
-<img src="https://img.shields.io/badge/EXPLORE-PORTX-7F52FF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/%3E_%20ENTER_PORTX-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
 </a>
-</p>
 
 ---
 
 <div align="center">
 
-## `03 // L7 RESILIENCE SCANNER`
+## `████████████████████████████████`
 
-### Application-Layer Traffic Intelligence
+## `PROJECT // L7-RESILIENCE-SCANNER`
 
-<img src="https://img.shields.io/badge/PYTHON-SECURITY-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/LAYER_7-ANALYSIS-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/HTTP-TRAFFIC-111827?style=for-the-badge">
+### `APPLICATION-LAYER TRAFFIC INTELLIGENCE`
+
+## `████████████████████████████████`
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LAYER--7-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/HTTP_ANALYSIS-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/ANOMALY_DETECTION-00ff9c?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
-A security research project focused on **HTTP traffic behavior, anomalous request patterns, bot activity and application-layer resilience**.
-
 ```text
-HTTP TRAFFIC
-     │
-     ▼
- Request Analysis
-     │
-     ├──── Behavior Signals
-     ├──── Request Patterns
-     ├──── Frequency Analysis
-     └──── Anomaly Detection
-              │
-              ▼
-       Traffic Intelligence
-              │
-       ┌──────┴──────┐
-       ▼             ▼
-    NORMAL        SUSPICIOUS
-                     │
-                     ▼
-               SECURITY SIGNAL
+                         HTTP TRAFFIC
+                              │
+                              ▼
+                    ┌──────────────────┐
+                    │ REQUEST ANALYSIS │
+                    └────────┬─────────┘
+                             │
+             ┌───────────────┼───────────────┐
+             ▼               ▼               ▼
+        BEHAVIOR          PATTERNS         RATE
+         SIGNALS          ANALYSIS       ANALYSIS
+             │               │               │
+             └───────────────┼───────────────┘
+                             ▼
+                     ANOMALY ENGINE
+                             │
+                    ┌────────┴────────┐
+                    ▼                 ▼
+                 NORMAL           SUSPICIOUS
+                                      │
+                                      ▼
+                               SECURITY SIGNAL
 ```
 
-<p align="center">
+Focused on **bot activity, anomalous requests, application-layer attacks and HTTP traffic behavior**.
+
 <a href="https://github.com/mr-coder20/L7-Resilience-Scanner">
-<img src="https://img.shields.io/badge/EXPLORE-L7_RESILIENCE-3776AB?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/%3E_%20ENTER_L7--RESILIENCE-050505?style=for-the-badge&logo=github&logoColor=00ff9c"/>
 </a>
-</p>
 
 ---
 
-# 🧬 Engineering DNA
+# `./architecture --mindset`
 
 ```mermaid
-flowchart LR
-    A[Software Engineering] --> E[Secure Systems]
-    B[Cybersecurity] --> E
-    C[Systems Architecture] --> E
-    D[Infrastructure] --> E
+flowchart TB
 
-    E --> F[Automation]
-    E --> G[Observability]
-    E --> H[Resilience]
-    E --> I[Performance]
+    A["SOFTWARE ENGINEERING"] --> B["SECURE ARCHITECTURE"]
 
-    F --> J[Production Engineering]
-    G --> J
-    H --> J
-    I --> J
+    B --> C["SYSTEMS"]
+    B --> D["NETWORKS"]
+    B --> E["INFRASTRUCTURE"]
+
+    C --> F["PERFORMANCE"]
+    D --> G["VISIBILITY"]
+    E --> H["AUTOMATION"]
+
+    F --> I["RESILIENCE"]
+    G --> I
+    H --> I
+
+    I --> J["PRODUCTION-READY SYSTEMS"]
 ```
 
 ---
 
-# 🛠 Technology Stack
+# `./stack --scan`
 
 <div align="center">
 
-### Core Languages
+### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=go,python,kotlin,java,bash" />
+<img src="https://skillicons.dev/icons?i=go,python,kotlin,java,bash"/>
+
+### `SYSTEMS`
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions"/>
+
+### `ENGINEERING`
+
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode"/>
+
+</div>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                       ENGINEERING STACK                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  LANGUAGES                                                  │
+│  ├─ Go                                                      │
+│  ├─ Python                                                  │
+│  ├─ Kotlin                                                  │
+│  ├─ Java                                                    │
+│  └─ Bash                                                    │
+│                                                             │
+│  SYSTEMS                                                    │
+│  ├─ Linux                                                   │
+│  ├─ Docker                                                  │
+│  ├─ Networking                                               │
+│  ├─ Concurrency                                             │
+│  └─ Infrastructure                                          │
+│                                                             │
+│  SECURITY                                                    │
+│  ├─ Network Security                                        │
+│  ├─ Application Security                                    │
+│  ├─ Traffic Analysis                                        │
+│  ├─ Threat Detection                                        │
+│  └─ Security Automation                                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `./principles`
+
+### `01` — SECURITY BY DESIGN
+
+Security should exist inside the architecture, not as a final checklist.
+
+### `02` — ENGINEER THE FAILURE
+
+A system is not truly understood until its failure modes are understood.
+
+### `03` — AUTOMATE THE REPETITIVE
+
+Engineering time belongs to architecture and problem solving, not repetitive operations.
+
+### `04` — MEASURE BEFORE OPTIMIZING
+
+Performance claims should be reproducible, measurable and contextual.
+
+### `05` — DESIGN FOR RESILIENCE
+
+Real systems operate under imperfect conditions.
+
+---
+
+# `./pipeline --execute`
+
+```text
+        ┌─────────────┐
+        │    IDEA     │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │   RESEARCH  │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │ ARCHITECTURE│
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │    BUILD    │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │    TEST     │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │   HARDEN    │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │   RELEASE   │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │    SCALE    │
+        └─────────────┘
+```
+
+---
+
+# `./status`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-SECURITY_SYSTEMS-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MODE-ENGINEERING-00ff9c?style=for-the-badge&labelColor=050505"/>
+
+</div>
+
+```text
+[✓] Software Engineering
+[✓] Cybersecurity
+[✓] Systems Architecture
+[✓] Network Engineering
+[✓] Infrastructure
+[✓] Automation
+[→] AI-assisted Security
+[→] Open Source Engineering
+```
+
+---
+
+# `./github --activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mr-coder20&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=github_dark" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-coder20&hide_border=true&theme=dark" width="49%"/>
 
 <br><br>
 
-### Systems & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions" />
-
-<br><br>
-
-### Engineering Environment
-
-<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-coder20&layout=compact&langs_count=8&hide_border=true&theme=github_dark" width="49%"/>
 
 </div>
 
-<br>
-
-```text
-LANGUAGES
-├── Go
-├── Python
-├── Kotlin
-├── Java
-└── Bash
-
-ENGINEERING
-├── System Architecture
-├── Network Engineering
-├── Concurrent Systems
-├── Automation
-├── Performance
-└── Observability
-
-SECURITY
-├── Network Security
-├── Application Security
-├── Traffic Analysis
-├── Security Automation
-├── Threat Detection
-└── Resilience Engineering
-
-INFRASTRUCTURE
-├── Linux
-├── Docker
-├── Git
-├── CI/CD
-└── GitHub Actions
-```
-
 ---
 
-# 🧠 How I Engineer
-
-```text
-01
-UNDERSTAND
-│
-├── What problem are we actually solving?
-└── What are the real constraints?
-
-          ↓
-
-02
-ARCHITECT
-│
-├── Design boundaries
-├── Define responsibilities
-└── Reduce unnecessary complexity
-
-          ↓
-
-03
-BUILD
-│
-├── Maintainable implementation
-├── Automation
-├── Observability
-└── Testing
-
-          ↓
-
-04
-BREAK
-│
-├── Failure scenarios
-├── Security assumptions
-├── Performance limits
-└── Edge cases
-
-          ↓
-
-05
-HARDEN
-│
-├── Improve resilience
-├── Reduce attack surface
-├── Optimize bottlenecks
-└── Strengthen architecture
-
-          ↓
-
-06
-SCALE
-```
-
----
-
-# 📊 GitHub Engineering Activity
+# `./contributions --visualize`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mr-coder20&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=github_dark">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-coder20&hide_border=true&theme=github-dark-blue">
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-coder20&layout=compact&hide_border=true&langs_count=8&theme=github_dark">
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-</div>
-
-> Requires the GitHub Action that generates the contribution snake.
-
----
-
-# 🛰 Current Direction
+# `./roadmap --global`
 
 ```text
-                     ENGINEERING ROADMAP
-
-                           2026
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-              ▼              ▼              ▼
-          FireScan          PortX        L7 Security
-              │              │              │
-              ▼              ▼              ▼
-        Recon Engine    Security UX    Traffic Intel
-              │              │              │
-              └──────────────┼──────────────┘
-                             ▼
-                  SECURITY ENGINEERING
-                           ECOSYSTEM
-                             │
-                             ▼
-                SYSTEMS • SECURITY • AI
+                         2026+
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+              ▼            ▼            ▼
+           FIRESCAN      PORTX        L7-RS
+              │            │            │
+              ▼            ▼            ▼
+        RECON ENGINE   SECURITY UX   L7 INTEL
+              │            │            │
+              └────────────┼────────────┘
+                           │
+                           ▼
+                 SECURITY ECOSYSTEM
+                           │
+               ┌───────────┼───────────┐
+               ▼           ▼           ▼
+             SYSTEMS    SECURITY       AI
+               │           │           │
+               └───────────┼───────────┘
+                           ▼
+                  OPEN SOURCE SYSTEMS
 ```
 
-My long-term direction is building an ecosystem around:
+---
 
-**Security Engineering · Infrastructure · Systems · Networking · Automation · AI-assisted Security**
+# `./collaborate`
+
+I'm interested in serious engineering collaborations around:
+
+```text
+Cybersecurity
+Networking
+Infrastructure
+Developer Tools
+Automation
+Systems Engineering
+Security Research
+AI-assisted Engineering
+Open Source
+```
+
+If you're building something technically ambitious, let's build it properly.
 
 ---
 
-# 🤝 Open Source
-
-I am interested in collaborating on engineering projects involving:
-
-`Cybersecurity` · `Networking` · `Infrastructure` · `Developer Tools` · `Automation` · `Systems Engineering`
-
-Good engineering starts with a **real problem** — not a technology looking for one.
-
----
-
-# 📡 Connect
+# `./connect`
 
 <div align="center">
 
 <a href="https://github.com/mr-coder20">
-<img src="https://img.shields.io/badge/GitHub-mr--coder20-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GITHUB-MR--CODER20-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://t.me/a_god_3_6_9">
-<img src="https://img.shields.io/badge/Telegram-CONNECT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/TELEGRAM-CONNECT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </div>
@@ -453,22 +496,26 @@ Good engineering starts with a **real problem** — not a technology looking for
 
 <div align="center">
 
-<br>
-
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│       BUILD SYSTEMS THAT DESERVE TO SURVIVE.         │
-│                                                      │
-│     SOFTWARE • SECURITY • SYSTEMS • ENGINEERING      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   [ SYSTEM MESSAGE ]                                               ║
+║                                                                    ║
+║   SOFTWARE IS THE SYSTEM.                                          ║
+║   SECURITY IS THE ARCHITECTURE.                                    ║
+║   RESILIENCE IS THE STANDARD.                                      ║
+║                                                                    ║
+║   BUILD → SECURE → BREAK → HARDEN → SCALE                          ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
-### `ENGINEER THE SYSTEM. SECURE THE SYSTEM. SCALE THE SYSTEM.`
-
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=%5B+CONNECTION+ESTABLISHED+%5D;%5B+SECURITY+LAYER+ACTIVE+%5D;%5B+ENGINEERING+MODE+ENABLED+%5D;%5B+BUILDING+THE+NEXT+SYSTEM...+%5D"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:071a17,100:050505&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
