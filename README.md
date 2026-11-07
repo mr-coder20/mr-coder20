@@ -4,7 +4,7 @@
 <!--              ANIMATED CYBERPUNK HEADER (custom SVG)               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/cyber-header.svg" width="100%" alt="Cyber Header"/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/cyber-header.svg" width="100%" alt="Cyber Header"/>
 
 <br/>
 
@@ -27,7 +27,7 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/neon-divider.svg" width="100%" alt=""/>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 📟 ◈ OPERATIVE DOSSIER
@@ -46,19 +46,19 @@ STATUS           : "ALL SYSTEMS NOMINAL // ZERO-TRUST ENFORCED // 0x7F000001"
 ```
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/neon-divider.svg" width="100%" alt=""/>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🖥️ ◈ SOC DASHBOARD — LIVE THREAT MONITOR
 
 <div align="center">
 
-<img src="./assets/soc-monitor.svg" width="100%" alt="SOC Dashboard"/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/soc-monitor.svg" width="100%" alt="SOC Dashboard"/>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/neon-divider.svg" width="100%" alt=""/>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## ⚡ ◈ TECH STACK
@@ -80,7 +80,7 @@ STATUS           : "ALL SYSTEMS NOMINAL // ZERO-TRUST ENFORCED // 0x7F000001"
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/neon-divider.svg" width="100%" alt=""/>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 ◈ ACHIEVEMENT TROPHIES
@@ -92,7 +92,7 @@ STATUS           : "ALL SYSTEMS NOMINAL // ZERO-TRUST ENFORCED // 0x7F000001"
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/neon-divider.svg" width="100%" alt=""/>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🛰️ ◈ OPEN SOURCE SYSTEMS
@@ -145,7 +145,7 @@ Chunked resumable downloads via HTTP Range headers and Foreground Services. Hard
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/neon-divider.svg" width="100%" alt=""/>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 📺 ◈ YOUTUBE BROADCAST
@@ -169,7 +169,7 @@ Chunked resumable downloads via HTTP Range headers and Foreground Services. Hard
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/neon-divider.svg" width="100%" alt=""/>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 📊 ◈ LIVE TELEMETRY
@@ -190,7 +190,7 @@ Chunked resumable downloads via HTTP Range headers and Foreground Services. Hard
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/neon-divider.svg" width="100%" alt=""/>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 ◈ CONTRIBUTION SNAKE
@@ -206,7 +206,7 @@ Chunked resumable downloads via HTTP Range headers and Foreground Services. Hard
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/neon-divider.svg" width="100%" alt=""/>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🔮 ◈ DEFENSIVE DOCTRINE
@@ -214,43 +214,3 @@ Chunked resumable downloads via HTTP Range headers and Foreground Services. Hard
 <details>
 <summary><b>▶ CLICK TO DECRYPT — ENGINEERING AXIOMS</b></summary>
 <br/>
-
-```
-01  MINIMAL SURFACE      Every unvetted dependency is an unmonitored backdoor.
-02  CLIENT PRIVACY       Threat triage must process on-device. Zero data leakage.
-03  RESILIENCE FIRST     Under pressure, degradation must be safe and deterministic.
-04  CODE AS TOOLING      Manual workflows must crystallize into native CLI binaries.
-05  VERIFY, NOT TRUST    Performance claims without benchmarks are hypotheses.
-```
-
-</details>
-
-<details>
-<summary><b>▶ CLICK TO DECRYPT — SOC PHILOSOPHY</b></summary>
-<br/>
-
-```
-01  ASSUME BREACH        Every network is already compromised until proven otherwise.
-02  LOG EVERYTHING       If it is not logged, it did not happen.
-03  AUTOMATE TRIAGE      First-pass IOC classification must be machine-speed.
-04  HUNT PROACTIVELY     Waiting for alerts is a losing strategy.
-05  SHARE INTELLIGENCE   Threat intel gains value through responsible sharing.
-```
-
-</details>
-
----
-
-<div align="center">
-
-```
-SECURE UPLINK ESTABLISHED // PORT 443 // ZERO COMPROMISE
-```
-
-<sub>Engineered by <b>Amirhossein Ghafari</b> · SOC Analyst · Security Researcher · Systems Architect</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,30:00F0FF,70:00FF9D,100:0a0e17&height=80&section=footer" width="100%"/>
-
-</div>
