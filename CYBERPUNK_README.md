@@ -1,0 +1,256 @@
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--              ANIMATED CYBERPUNK HEADER (custom SVG)               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/cyber-header.svg" width="100%" alt="Cyber Header"/>
+
+<br/>
+
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=mr-coder20&style=for-the-badge&color=00FF9D&label=PROFILE+RECON+COUNT&labelColor=0a0e17" alt="Views"/>
+
+<br/><br/>
+
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%5B%E2%9C%B6%5D+SOC+Analyst+%E2%80%A2+Security+Researcher+%E2%80%A2+Ethical+Hacker;%5B%E2%9C%B6%5D+Mobile+AppSec+%7C+Frida+%E2%80%A2+OWASP+Mobile+%E2%80%A2+Reverse+Engineering;%5B%E2%9C%B6%5D+Kotlin+KMP+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Go+%E2%80%A2+Python+AsyncIO;%5B%E2%9C%B6%5D+Layer-7+Resilience+%E2%80%A2+Threat+Intelligence+%E2%80%A2+Zero-Trust" alt="Typing"/>
+
+<br/>
+
+<!-- Quick Links -->
+<a href="https://mr-coder20.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=0a0e17" alt="Portfolio"/></a>
+<a href="https://youtube.com"><img src="https://img.shields.io/badge/YOUTUBE-FF0055?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=0a0e17" alt="YouTube"/></a>
+<a href="https://t.me/a_god_3_6_9"><img src="https://img.shields.io/badge/TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0a0e17" alt="Telegram"/></a>
+<a href="https://github.com/mr-coder20"><img src="https://img.shields.io/badge/GITHUB-00FF9D?style=for-the-badge&logo=github&logoColor=000000&labelColor=0a0e17" alt="GitHub"/></a>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📟 ◈ OPERATIVE DOSSIER
+
+```yaml
+IDENTITY         : "Amirhossein Ghafari"
+HANDLE           : "mr-coder20"
+CLASSIFICATION   : "SOC Analyst • Security Researcher • Ethical Hacker"
+ACADEMIC_BASE    : "B.Sc. Software Engineering"
+SECURITY_OPS     : "SIEM Analysis • Incident Response • IOC Triage • Threat Hunting"
+APPSEC_RESEARCH  : "Frida Dynamic Hooking • OWASP Mobile Top 10 • JWT/API Pentesting"
+SYSTEMS_STACK    : "Kotlin Multiplatform • Jetpack Compose • Go Concurrency • Python AsyncIO"
+INFRASTRUCTURE   : "Linux Kernel • VMware ESXi • Nmap Recon • MikroTik MTCNA • Wireshark"
+BROADCAST        : "YouTube — Cyber Security Deep-Dives & Architecture Breakdowns"
+STATUS           : "ALL SYSTEMS NOMINAL // ZERO-TRUST ENFORCED // 0x7F000001"
+```
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🖥️ ◈ SOC DASHBOARD — LIVE THREAT MONITOR
+
+<div align="center">
+
+<img src="./assets/soc-monitor.svg" width="100%" alt="SOC Dashboard"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## ⚡ ◈ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,go,python,bash,androidstudio,docker,linux,git,github,gradle,figma&theme=dark&perline=6" alt="Tech Stack"/>
+
+<br/><br/>
+
+| VECTOR | TECHNOLOGIES |
+|:---|:---|
+| **🛡️ SOC & Threat Intel** | `SIEM` `Incident Response` `IOC Triage` `Threat Hunting` `Log Analysis` `MITRE ATT&CK` |
+| **🔓 AppSec & Reverse Eng** | `Frida` `OWASP Mobile Top 10` `JWT Pentesting` `API Security` `SSL Pinning Bypass` `Anti-ZipSlip` |
+| **📱 Native & Multiplatform** | `Kotlin Multiplatform` `Jetpack Compose` `MVVM / MVI / Clean Arch` `Coroutines` `WorkManager` `Ktor` |
+| **⚡ Recon & Offensive Tools** | `Nmap` `Wireshark` `Burp Suite` `Go CLI Engines` `Python AsyncIO` `L7 Traffic Analysis` |
+| **🌐 Infrastructure** | `Linux / POSIX` `VMware ESXi` `MikroTik MTCNA` `Docker` `GitHub Actions` `TCP/IP · TLS · HTTP/2` |
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🏆 ◈ ACHIEVEMENT TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mr-coder20&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=6" alt="Trophies" width="98%"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🛰️ ◈ OPEN SOURCE SYSTEMS
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [IOC Lens](https://github.com/mr-coder20/ioc-lens)
+> **Privacy-First Threat Triage Engine**
+
+Aggregates IOCs from VirusTotal, AbuseIPDB, OTX & URLhaus into a single explainable verdict. Zero-telemetry — all processing stays on-device.
+
+`Kotlin Multiplatform` `Compose` `Desktop` `Android` `iOS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [L7 Resilience Scanner](https://github.com/mr-coder20/L7-Resilience-Scanner)
+> **Layer-7 Traffic Analysis & DDoS Detection**
+
+Evaluates application-layer resilience under micro-burst HTTP/HTTPS workloads. Real-time bot anomaly detection and latency profiling.
+
+`Python` `AsyncIO` `HTTP/2` `Security Telemetry`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 [FireScan / PortX](https://github.com/mr-coder20/FireScan)
+> **High-Performance Reconnaissance Engine**
+
+Go-powered automated probing with adaptive socket timing, concurrent worker pools, structured JSON output, and minimal memory footprint.
+
+`Go` `Kotlin` `Ktor` `Networking CLI`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [PERSIANEFOOTBALL](https://github.com/mr-coder20/PERSIANEFOOTBALL)
+> **Resilient Downloader with Anti-ZipSlip**
+
+Chunked resumable downloads via HTTP Range headers and Foreground Services. Hardened ZIP extraction preventing directory traversal exploits.
+
+`Kotlin` `Jetpack Compose` `WorkManager` `OkHttp`
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📺 ◈ YOUTUBE BROADCAST
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🔴 LIVE TECHNICAL TRANSMISSIONS                                        │
+│                                                                          │
+│  ◈ SOC OPERATIONS    SIEM deep-dives, incident response walkthroughs    │
+│  ◈ MOBILE APPSEC     Frida hooking, JWT attacks, SSL pinning bypass     │
+│  ◈ THREAT INTEL      IOC triage automation, privacy-first analysis      │
+│  ◈ L7 RESILIENCE     DDoS simulation, traffic anomaly heuristics        │
+│  ◈ SYSTEMS ENG       Kotlin KMP internals, Go concurrency deep-dives   │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+👉 **[📺 WATCH DEEP-DIVES ON YOUTUBE](https://youtube.com)** 👈
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📊 ◈ LIVE TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mr-coder20&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=00FF9D&icon_color=00F0FF&text_color=94A3B8&ring_color=A855F7" alt="Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-coder20&layout=compact&hide_border=true&bg_color=0a0e17&title_color=00F0FF&text_color=94A3B8" alt="Languages" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-coder20&theme=dark&background=0a0e17&border=0a0e17&fire=00FF9D&ring=00F0FF&currStreakNum=00FF9D&sideNums=00F0FF&sideLabels=94A3B8&dates=475569&stroke=1e293b" alt="Streak" width="70%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-coder20&bg_color=0a0e17&color=00FF9D&line=00F0FF&point=A855F7&area=true&area_color=00F0FF&hide_border=true" alt="Activity" width="98%"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🐍 ◈ CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-coder20/mr-coder20/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mr-coder20/mr-coder20/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🔮 ◈ DEFENSIVE DOCTRINE
+
+<details>
+<summary><b>▶ CLICK TO DECRYPT — ENGINEERING AXIOMS</b></summary>
+<br/>
+
+```
+01  MINIMAL SURFACE      Every unvetted dependency is an unmonitored backdoor.
+02  CLIENT PRIVACY       Threat triage must process on-device. Zero data leakage.
+03  RESILIENCE FIRST     Under pressure, degradation must be safe and deterministic.
+04  CODE AS TOOLING      Manual workflows must crystallize into native CLI binaries.
+05  VERIFY, NOT TRUST    Performance claims without benchmarks are hypotheses.
+```
+
+</details>
+
+<details>
+<summary><b>▶ CLICK TO DECRYPT — SOC PHILOSOPHY</b></summary>
+<br/>
+
+```
+01  ASSUME BREACH        Every network is already compromised until proven otherwise.
+02  LOG EVERYTHING       If it is not logged, it did not happen.
+03  AUTOMATE TRIAGE      First-pass IOC classification must be machine-speed.
+04  HUNT PROACTIVELY     Waiting for alerts is a losing strategy.
+05  SHARE INTELLIGENCE   Threat intel gains value through responsible sharing.
+```
+
+</details>
+
+---
+
+<div align="center">
+
+```
+SECURE UPLINK ESTABLISHED // PORT 443 // ZERO COMPROMISE
+```
+
+<sub>Engineered by <b>Amirhossein Ghafari</b> · SOC Analyst · Security Researcher · Systems Architect</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,30:00F0FF,70:00FF9D,100:0a0e17&height=80&section=footer" width="100%"/>
+
+</div>
