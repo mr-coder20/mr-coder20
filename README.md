@@ -83,11 +83,16 @@ STATUS           : "ALL SYSTEMS NOMINAL // ZERO-TRUST ENFORCED // 0x7F000001"
 <img src="https://raw.githubusercontent.com/mr-coder20/mr-coder20/main/assets/neon-divider.svg" width="100%" alt=""/>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🏆 ◈ ACHIEVEMENT TROPHIES
+## 🛡️ ◈ SECURITY CLEARANCE & RECON TIERS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mr-coder20&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=6" alt="Trophies" width="98%"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/CLEARANCE-OMEGA--7_ZERO_TRUST-00FF9D?style=for-the-badge&logo=shield&logoColor=000000&labelColor=0a0e17" alt="Clearance"/>
+  <img src="https://img.shields.io/badge/ROLE-SOC_ANALYST_TIER_2-00F0FF?style=for-the-badge&logo=target&logoColor=000000&labelColor=0a0e17" alt="SOC Tier"/>
+  <img src="https://img.shields.io/badge/DEFENSE-ACTIVE_LAYER_7-A855F7?style=for-the-badge&logo=wireguard&logoColor=white&labelColor=0a0e17" alt="Defense"/>
+  <img src="https://img.shields.io/badge/OFFENSIVE-MOBILE_REVERSE_ENG-FF0055?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0a0e17" alt="Offensive"/>
+</p>
 
 </div>
 
@@ -176,10 +181,10 @@ Chunked resumable downloads via HTTP Range headers and Foreground Services. Hard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mr-coder20&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=00FF9D&icon_color=00F0FF&text_color=94A3B8&ring_color=A855F7" alt="Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-coder20&layout=compact&hide_border=true&bg_color=0a0e17&title_color=00F0FF&text_color=94A3B8" alt="Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mr-coder20&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e17&title_color=00FF9D&icon_color=00F0FF&text_color=94A3B8" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-coder20&layout=compact&theme=radical&hide_border=true&bg_color=0a0e17&title_color=00F0FF&text_color=94A3B8" alt="Top Languages" width="49%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-coder20&theme=dark&background=0a0e17&border=0a0e17&fire=00FF9D&ring=00F0FF&currStreakNum=00FF9D&sideNums=00F0FF&sideLabels=94A3B8&dates=475569&stroke=1e293b" alt="Streak" width="70%"/>
 
